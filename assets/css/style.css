@@ -1,0 +1,96 @@
+:root {
+  --primary: #223354;
+  --accent: #26b8f3;
+  --bg-gradient: linear-gradient(120deg, #223354, #26b8f3 80%);
+  --card-radius: 18px;
+}
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  background: var(--bg-gradient);
+  min-height: 100vh;
+  color: #fff;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 16px 0;
+  background: rgba(34, 51, 84, 0.94);
+  margin: 0;
+  gap: 2rem;
+}
+nav ul li {
+  margin: 0;
+}
+nav ul li a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: bold;
+  padding: 8px 18px;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+nav ul li a:hover {
+  background: var(--accent);
+  color: #223354;
+}
+
+.card {
+  background: rgba(255,255,255,0.08);
+  border-radius: var(--card-radius);
+  padding: 2rem;
+  box-shadow: 0 4px 20px rgba(34,51,84,0.14);
+  margin: 2rem auto 1.25rem auto;
+  max-width: 700px;
+  color: #fff;
+}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="file"], button {
+  width: 90%;
+  padding: 10px;
+  margin: 8px 0 16px 0;
+  border-radius: 10px;
+  border: 2px solid var(--accent);
+  background: none;
+  color: #fff;
+}
+
+input[type="file"]::file-selector-button {
+  background: var(--accent);
+  color: #223354;
+  border: none;
+  padding: 7px 14px;
+  border-radius: 6px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+button {
+  background: var(--accent);
+  font-weight: bold;
+  color: #223354;
+  border: none;
+  cursor: pointer;
+  transition: all 0.25s;
+}
+
+button:hover {
+  background: #135981;
+  color: #fff;
+}
+
+footer {
+  background: rgba(34,51,84,0.95);
+  text-align: center;
+  padding: 16px 0;
+  position: relative;
+  color: #eee;
+}
+
+@media (max-width: 600px) {
+  .card { padding: 1rem; max-width: 98vw; }
+  nav ul { flex-direction: column; gap: 1rem; }
+}
