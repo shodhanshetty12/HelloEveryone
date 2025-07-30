@@ -128,33 +128,33 @@ Here’s what can be added to make HelloEveryone more powerful and professional:
 ## 🔐 Authentication Flow
 
 ### 📝 Registration Page  
-![Registration](https://github.com/shodhabshetty12/HelloEveryone/blob/main/img/reg.jpg?raw=true)
+![Registration](https://github.com/shodhabshetty12/HelloEveryone/img/reg.jpg?raw=true)
 
 ### 🔑 Login Page  
-![Login](https://github.com/shodhabshetty12/HelloEveryone/blob/main/img/log.jpg?raw=true)
+![Login](https://github.com/shodhabshetty12/HelloEveryone/img/log.jpg?raw=true)
 
 ### ✅ Logged-in View  
-![Logged In](https://github.com/shodhabshetty12/HelloEveryone/blob/main/img/loggedin.jpg?raw=true)
+![Logged In](https://github.com/shodhabshetty12/HelloEveryone/img/loggedin.jpg?raw=true)
 
 ---
 
 ## 📁 File Handling Section
 
 ### 📂 File Section  
-![File Section](https://github.com/shodhabshetty12/HelloEveryone/blob/main/img/file%20section.jpg?raw=true)
+![File Section](https://github.com/shodhabshetty12/HelloEveryone/img/file%20section.jpg?raw=true)
 
 ### ⬆️ File Uploaded  
-![Uploaded](https://github.com/shodhabshetty12/HelloEveryone/blob/main/img/uploaded.jpg?raw=true)
+![Uploaded](https://github.com/shodhabshetty12/HelloEveryone/img/uploaded.jpg?raw=true)
 
 ---
 
 ## 👥 New User Interaction
 
 ### 🙋‍♂️ New User Page  
-![New User](https://github.com/shodhabshetty12/HelloEveryone/blob/main/img/newuser.png?raw=true)
+![New User](https://github.com/shodhabshetty12/HelloEveryone/img/newuser.png?raw=true)
 
 ### ⬇️ Download as New User  
-![Download New User](https://github.com/shodhabshetty12/HelloEveryone/blob/main/img/downloadinginnewuser.png?raw=true)
+![Download New User](https://github.com/shodhabshetty12/HelloEveryone/img/downloadinginnewuser.png?raw=true)
 
 ---
 
