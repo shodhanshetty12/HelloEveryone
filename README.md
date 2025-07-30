@@ -81,36 +81,32 @@ HelloEveryone/
 
 ---
 
-## ✨ Planned Features & Professional Extensions
+## 📷 App Screenshot Gallery
 
-Here’s what can be added to make HelloEveryone more powerful and professional:
+### 📝 Registration Page  
+![Registration](https://github.com/shodhanshetty12/HelloEveryone/blob/main/img/reg.jpg?raw=true)
 
-- **🚀 Public URL Generator for Quick File Sharing:**  
-  Instantly generate unique download links for uploaded files accessible without logging in, with automatic download on link click.
+### 🔑 Login Page  
+![Login](https://github.com/shodhanshetty12/HelloEveryone/blob/main/img/log.jpg?raw=true)
 
-- **🛠️ Admin & Moderator Panels:**  
-  User management, role assignments, moderation of uploaded content, and audit logs.
+### ✅ Logged-in View  
+![Logged In](https://github.com/shodhanshetty12/HelloEveryone/blob/main/img/loggedin.jpg?raw=true)
 
-- **👥 Group Chat & Real-time Messaging:**  
-  Collaborative chat with presence indicators and message notifications.
+### 📂 File Section  
+![File Section](https://github.com/shodhanshetty12/HelloEveryone/blob/main/img/file%20section.jpg?raw=true)
 
-- **📊 Analytics Dashboard:**  
-  User activity, file upload/download stats, and usage trends.
+### ⬆️ Uploaded Confirmation  
+![Uploaded](https://github.com/shodhanshetty12/HelloEveryone/blob/main/img/uploaded.jpg?raw=true)
 
-- **🛡️ Enhanced Security Measures:**  
-  CAPTCHA on forms, two-factor authentication, file upload type/size validation, brute-force protection.
+### 👤 New User Page  
+![New User](https://github.com/shodhanshetty12/HelloEveryone/blob/main/img/newuser.jpg?raw=true)
 
-- **📁 File Versioning and History:**  
-  Track file changes and restore previous versions.
+### ⬇️ Downloading as New User  
+![Downloading](https://github.com/shodhanshetty12/HelloEveryone/blob/main/img/downloadinginnewuser.jpg?raw=true)
 
-- **👤 User Avatars and Profiles:**  
-  Enhanced user profiles with pictures and custom status.
+### 📌 Misc Image  
+![Custom Screenshot](https://github.com/shodhanshetty12/HelloEveryone/blob/main/img/7e0268b5-3af1-4818-bb9b-b5331ce2610c.png?raw=true)
 
-- **🔔 Notification System:**  
-  Alerts for messages, file uploads, and admin announcements.
-
-- **📱 Mobile App or PWA:**  
-  Access and manage the platform seamlessly on mobile devices.
 
 ---
 
